@@ -37,7 +37,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"40"
+		"xpos"					"3"
 		"ypos"					"25"
 		"zpos"					"2"
 		"wide"					"41"
@@ -47,7 +47,7 @@
 		"visible"				"0"
 		"visible_minmode"		"0"
 		"ypos_minmode"			"0"
-		"xpos_minmode"			"-5"
+		"xpos"					"3"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"

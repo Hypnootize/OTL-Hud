@@ -40,7 +40,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"-10"
+		"xpos"					"3"
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"41"
@@ -50,7 +50,7 @@
 		"visible"				"1"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"0"
-		"xpos_minmode"			"-10"
+		"xpos"					"3"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_RocketPack_Disabled"

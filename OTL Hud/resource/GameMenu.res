@@ -1,47 +1,12 @@
 "GameMenu"
 {
-	"CasualButton"
-	{
-		"label" "Play Casual" 
-		"command" "play_casual"
-		"subimage" "glyph_multiplayer"
-		"OnlyAtMenu" "1"
-	}
-	"QuickplayChangeButton"
-	{
-		"label" "#MMenu_NewGame" 
-		"command" "quickplay"
-		"subimage" "glyph_server"
-		"OnlyInGame" "1"
-	}
-	"MvMButton"
-	{
-		"label" "#MMenu_PlayCoop" 
-		"command" "play_mvm"
-		"subimage" "glyph_coop"
-		"OnlyAtMenu" "1"
-	}
-	"CompetitiveButton"
-	{
-		"label" "Play Competitive" 
-		"command" "play_competitive"
-		"subimage" "glyph_practice"
-		"OnlyAtMenu" "1"
-	}
 	"ServerBrowserButton"
 	{
 		"label" "#MMenu_BrowseServers" 
 		"command" "OpenServerBrowser"
 		"subimage" "glyph_server_browser"
-		"OnlyAtMenu" "1"
+		"OnlyAtMenu" "0"
 	} 
-	"ChangeServerButton"
-	{
-		"label" "#MMenu_ChangeServer" 
-		"command" "OpenServerBrowser"
-		"subimage" "glyph_server_browser"
-		"OnlyInGame" "1"
-	}
 	"ReplayBrowserButton"
 	{
 		"label" "#GameUI_GameMenu_ReplayDemos"
@@ -94,13 +59,6 @@
 
 	// These buttons are only shown while in-game
 	// and also are positioned by the .res file
-	"ResumeGameButton"
-	{
-		"label"			"#MMenu_ResumeGame"
-		"command"		"ResumeGame"
-		"subimage"		"icon_resume"
-		"OnlyInGame"	"1"
-	}
 	"CallVoteButton"
 	{
 		"label"			""

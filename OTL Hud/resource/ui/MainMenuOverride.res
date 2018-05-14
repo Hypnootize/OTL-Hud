@@ -1688,6 +1688,7 @@
 			"defaultbgcolor_override"		"140 127 112 255"
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"235 226 202 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1700,7 +1701,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"lyph_server_browser"
+				"image"			""
 			}				
 		}
 	}

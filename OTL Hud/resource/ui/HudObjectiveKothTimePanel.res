@@ -24,9 +24,10 @@
 		
 		if_match
 		{
-			"xpos"				"30"
-			"xpos_minmode"		"30"
-			"ypos_minmode"		"0"
+			"xpos"				"28"
+			"xpos_minmode"		"23"
+			"ypos"				"0"
+			"ypos_minmode"		"-4"
 		}
 		
 		"TimePanelValue"
@@ -35,20 +36,14 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMedium"
 			"fgcolor"		"DeathBlue" //"TanLight"
 			"xpos"			"33"// "23"
 			"xpos_minmode"	"39"
-				//"xpos_hidef"	"114"
-				//"xpos_lodef"	"114"
 			"ypos"			"2" //"11"
 			"ypos_minmode"	"6"
-				//"ypos_hidef"	"15"
-				//"ypos_lodef"	"18"
 			"zpos"			"3"
 			"wide"			"45"
 			"wide_minmode"	"30"
-			"wide_lodef"	"50"
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
@@ -59,8 +54,6 @@
 			{
 				"font"			"HudFontSmallest"
 				"font_minmode"	"HudFontSmallest"
-				"xpos_minmode"	"33"
-				"ypos_minmode"	"2"
 				"wide_minmode"	"45"
 			}
 		}
@@ -82,9 +75,10 @@
 		
 		if_match
 		{
-			"xpos"				"30"
-			"xpos_minmode"		"30"
-			"ypos_minmode"		"0"
+			"xpos"				"64"
+			"xpos_minmode"		"59"
+			"ypos"				"0"
+			"ypos_minmode"		"-4"
 		}
 		
 		"TimePanelValue"
@@ -93,20 +87,14 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMedium"
 			"fgcolor"		"DeathRed" //"TanLight"
 			"xpos"			"33" //"23"
 			"xpos_minmode"	"39"
-				//"xpos_hidef"	"114"
-				//"xpos_lodef"	"114"
 			"ypos"			"2" //"11"
 			"ypos_minmode"	"6"
-				//"ypos_hidef"	"15"
-				//"ypos_lodef"	"18"
 			"zpos"			"3"
 			"wide"			"45"
 			"wide_minmode"	"30"
-			"wide_lodef"	"50"
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
@@ -117,8 +105,6 @@
 			{
 				"font"			"HudFontSmallest"
 				"font_minmode"	"HudFontSmallest"
-				"xpos_minmode"	"33"
-				"ypos_minmode"	"2"
 				"wide_minmode"	"45"
 			}
 		}

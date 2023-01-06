@@ -1,12 +1,7 @@
 # OTL-Hud
-Screenshots: https://imgur.com/a/MC2zy
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/MC2zy)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 0
-
-hud_combattext_green 255
-
-hud_combattext_blue 255
+![](https://i.imgur.com/aoXzS8V.jpg)
